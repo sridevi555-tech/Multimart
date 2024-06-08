@@ -17,7 +17,7 @@ const Header = ({ siteName }) => (
     </div>
     <nav className="navigation">
       <ul>
-        <li><a href="#women">Women's Fashion</a></li>
+        <li><a href="#women">Women's     Fashion</a></li>
         <li><a href="#men">Men's Fashion</a></li>
         <li><a href="#kids">Kids' Fashion</a></li>
         <li><a href="#accessories">Accessories</a></li>
